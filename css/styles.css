@@ -132,6 +132,7 @@ body {
   max-width: 1440px;
   margin: 0 auto;
   padding: 180px 0;
+  background: #2e2f42;
   text-align: center;
   background-image: linear-gradient(
       rgba(46, 47, 66, 0.7),
